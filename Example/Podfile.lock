@@ -1,0 +1,16 @@
+PODS:
+  - iOSTestView (0.1.0)
+
+DEPENDENCIES:
+  - iOSTestView (from `../`)
+
+EXTERNAL SOURCES:
+  iOSTestView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSTestView: 29d507143213d3c82050c03ec07c46411da566ac
+
+PODFILE CHECKSUM: f84c174f6781c7d5fe7b6e964d5b99e3e41180c2
+
+COCOAPODS: 1.5.3
